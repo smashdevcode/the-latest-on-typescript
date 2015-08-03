@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "declaration": false,
+        "noImplicitAny": true,
+        "removeComments": false,
+        "noLib": false,
+        "sourceMap": true
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./sandbox/computed-properties.ts",
+        "./sandbox/destructuring.ts",
+        "./sandbox/for-of.ts",
+        "./sandbox/let-const.ts",
+        "./sandbox/spread.ts",
+        "./sandbox/template-strings.ts"
+    ]
+}
