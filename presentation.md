@@ -37,9 +37,32 @@ The Google AngularJS team's support is a big boost
     Then move to VS???
     Or just do this part entirely in VS???
 
+4) What's coming in future releases?
+
+1.6
+ES6 Generators
+Local types
+Generic type aliases
+Expressions in class extends clauses
+Class expressions
+exclude property in tsconfig.json
+User defined type guard functions
+External module resolution enhancements
+JSX support
+Intersection types
+abstract classes and methods
+Strict object literal assignment checking
+
+2.0
+Investigate top-rated feature requests (mixins, abstract classes, etc).
+Improve lib.d.ts modularity
+Module bundling
+async/await
+
 4) Resources
     Great free, online book
         http://basarat.gitbooks.io/typescript/
+        https://twitter.com/basarat
 
 5) TypeScript Meetup
     Next week's meeting is with Jonathan Turner, TypeScript Program Manager
