@@ -3,8 +3,8 @@
     "compilerOptions": {
         "target": "es5",
         "declaration": false,
-        "noImplicitAny": true,
-        "removeComments": false,
+        "noImplicitAny": false,
+        "removeComments": true,
         "noLib": false,
         "sourceMap": true,
         "module": "system",
@@ -15,6 +15,17 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
+        "./backup/lodash.d.ts",
+        "./demos/computed-properties.ts",
+        "./demos/decorators-log.ts",
+        "./demos/decorators.ts",
+        "./demos/destructuring.ts",
+        "./demos/for-of.ts",
+        "./demos/let-const.ts",
+        "./demos/template-strings-with-tags.ts",
+        "./demos/template-strings.ts",
+        "./demos/union-types-type-guards.ts",
+        "./language-overview/main.ts",
         "./modules-example/scripts/main.ts",
         "./modules-example/scripts/my-class.ts",
         "./modules-example/scripts/my-module.ts",
@@ -25,6 +36,8 @@
         "./sandbox/for-of.ts",
         "./sandbox/let-const.ts",
         "./sandbox/spread.ts",
-        "./sandbox/template-strings.ts"
+        "./sandbox/template-strings-with-tags.ts",
+        "./sandbox/template-strings.ts",
+        "./sandbox/union-types-type-guards.ts"
     ]
 }
