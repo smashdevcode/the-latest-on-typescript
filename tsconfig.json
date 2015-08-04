@@ -1,18 +1,26 @@
 {
+    "version": "1.5.3",
     "compilerOptions": {
         "target": "es5",
         "declaration": false,
         "noImplicitAny": true,
         "removeComments": false,
         "noLib": false,
-        "sourceMap": true
+        "sourceMap": true,
+        "module": "system",
+        "experimentalDecorators": true
     },
     "filesGlob": [
         "./**/*.ts",
         "!./node_modules/**/*.ts"
     ],
     "files": [
+        "./modules-example/scripts/main.ts",
+        "./modules-example/scripts/my-class.ts",
+        "./modules-example/scripts/my-module.ts",
         "./sandbox/computed-properties.ts",
+        "./sandbox/decorators-log.ts",
+        "./sandbox/decorators.ts",
         "./sandbox/destructuring.ts",
         "./sandbox/for-of.ts",
         "./sandbox/let-const.ts",

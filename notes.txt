@@ -4,20 +4,20 @@
 
 TODO
 
-1) Setup ES6 modules example using SystemJS
 
-2) Setup logging decorator example
 
-3) Setup Angular2 decorator example
-    https://angular.io/docs/js/latest/quickstart.html
 
-4) Review overview content and produce new slides
 
-5) Consider how to involve the audience
-    When showing off TS features... do it without mentioning what the feature is
-    Allow the audience to yell out what the feature is
-    Display the list of features on a board
-    What to use for prizes???
+Review overview content and produce new slides
+    Review previous presentations and look for anything that I've overlooked
+
+
+
+
+
+Stub out code examples
+
+
 
 
 

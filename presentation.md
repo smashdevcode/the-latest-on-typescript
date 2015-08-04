@@ -1,14 +1,18 @@
 
 # The Latest on TypeScript
 
-1) Start with quick overview of TypeScript
+1) Hello and Survey
+
+2) Start with quick overview of TypeScript
     Show this part in Atom???
     Static data typing
     Interfaces, classes, and namespaces
     Tooling support
+    DefinitelyTyped and tsd
 
-2) Overview
+3) Overview
 
+TS is a great combination of productivity boost and fun
 Do I really need to learn a new language?
 The learning curve is gentle
 Start with JS and add in data types
@@ -31,13 +35,18 @@ Great support for third party libraries through d.ts files
 Continues to evolve and improve
 Interesting things on the roadmap
 The Google AngularJS team's support is a big boost
+How to get TS
 
-3) Overview of ES6 features
+4) Overview of ES6 features
     Start in Atom???
     Then move to VS???
     Or just do this part entirely in VS???
 
-4) What's coming in future releases?
+5) What's coming in future releases?
+
+Lots of good stuff
+Quickly flip through each item
+Got that?
 
 1.6
 ES6 Generators
@@ -59,10 +68,13 @@ Improve lib.d.ts modularity
 Module bundling
 async/await
 
-4) Resources
+5) Resources
     Great free, online book
         http://basarat.gitbooks.io/typescript/
         https://twitter.com/basarat
 
-5) TypeScript Meetup
+6) TypeScript Meetup
     Next week's meeting is with Jonathan Turner, TypeScript Program Manager
+
+7) Thanks!
+    My contact information
