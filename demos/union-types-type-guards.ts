@@ -1,9 +1,8 @@
 
 namespace Demos.UnionTypesTypeGuards {
 
-    // Union Types
-    // 1) Show how you can specify more than one type
-    // 2) Show how you can use type guards to execute different code paths
+    // Union types allow you to specify more than one type
+    // You can use type guards to execute specific code paths for each type
 
     // function unionTypesFunction(value: string|string[]) {
     //     if (typeof value === 'string') {

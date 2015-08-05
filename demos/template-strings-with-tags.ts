@@ -6,7 +6,9 @@ namespace Demos.TemplateStrings {
     // var say = 'a bird in hand > two in the bush';
     // var html = htmlEscape `<div> I would just like to say : ${say}</div>`;
     // console.log(html);
-    //
+
+    // First parameter contains all of the string literals
+    // The rest parameter contains the placeholders
     // function htmlEscape(literals, ...placeholders) {
     //     let result = '';
     //

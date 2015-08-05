@@ -8,7 +8,13 @@ namespace Demos.Destructuring {
     //     value2: 2,
     //     value3: 3
     // };
+
+    // var value1 = myObject.value1;
+    // var value2 = myObject.value2;
+    // var value3 = myObject.value3;
+
     // var { value1, value2, value3 } = myObject;
+
     // console.log(`value1: ${value1}, value2: ${value2}, value3: ${value3}`);
 
     // Going deep

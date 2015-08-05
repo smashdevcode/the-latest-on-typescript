@@ -1,6 +1,9 @@
 
 namespace Demos.TemplateStrings {
 
+    // Use backticks when declaring the string
+    // to indicate that it's a template string
+
     // Multiline text
     // var templateStringMultiline = `This is the first line.
     //     And here's the second line.`;
