@@ -1,5 +1,5 @@
 {
-    "version": "1.5.3",
+    "version": "1.7.5",
     "compilerOptions": {
         "target": "es5",
         "declaration": false,
@@ -8,7 +8,8 @@
         "noLib": false,
         "sourceMap": true,
         "module": "system",
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": false
     },
     "filesGlob": [
         "./**/*.ts",
@@ -39,5 +40,8 @@
         "./sandbox/template-strings-with-tags.ts",
         "./sandbox/template-strings.ts",
         "./sandbox/union-types-type-guards.ts"
-    ]
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
 }

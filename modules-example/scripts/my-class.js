@@ -1,4 +1,5 @@
 System.register([], function(exports_1) {
+    "use strict";
     var MyClass;
     return {
         setters:[],
@@ -8,7 +9,7 @@ System.register([], function(exports_1) {
                     this.prop1 = prop1;
                 }
                 return MyClass;
-            })();
+            }());
             exports_1("default", MyClass);
         }
     }
